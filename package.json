@@ -1,5 +1,5 @@
 {
-  "name": "keyshapejs-fork-package",
+  "name": "keyshapejs",
   "version": "1.0.0",
   "description": "This is a fork of KeyshapeJS repo that makes it installable with npm",
   "main": "keyshape.js",
