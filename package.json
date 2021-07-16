@@ -1,0 +1,23 @@
+{
+  "name": "keyshapejs-fork-package",
+  "version": "1.0.0",
+  "description": "This is a fork of KeyshapeJS repo that makes it installable with npm",
+  "main": "keyshape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amelietremblay/keyshapejs.git"
+  },
+  "keywords": [
+    "keyshapejs",
+    "npm"
+  ],
+  "author": "wwwonka",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/amelietremblay/keyshapejs/issues"
+  },
+  "homepage": "https://github.com/amelietremblay/keyshapejs#readme"
+}
